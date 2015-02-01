@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beacon Hunt</string>
+    <string name="dummy_button">Done</string>
+    <string name="dummy_content">BEACON\nHUNT</string>
+    <string name="login_welcome">Please Enter Your Name</string>
+    <string name="login_button">Done</string>
+
+</resources>
